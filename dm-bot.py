@@ -260,7 +260,7 @@ if __name__ == "__main__":
 # python your_bot_file.py                    # Run your bot script
 
 #.env file :
-#DISCORD_API_TOKEN=''                        #Server Token 
+#DISCORD_API_TOKEN=''                        #bot Token 
 #GUILD=''                                    #Server id
 #ALLOWED_CHANNEL_ID=''                       #ALLOWED_CHANNEL_ID
 #ALLOWED_ROLE_ID=''                          #ALLOWED_ROLE_ID
