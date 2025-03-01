@@ -247,20 +247,4 @@ if __name__ == "__main__":
 
 
 
-# cd path_to_your_directory                 # Navigate to your project directory
-# python -m venv venv                       # Create a virtual environment
-# # Activate the virtual environment
-# venv\Scripts\activate                      # Windows
-# source venv/bin/activate                   # macOS/Linux
-# pip install --upgrade pip                  # Upgrade pip
-# pip install discord.py python-dotenv       # Install required packages
-# touch .env                                 # Create .env file (macOS/Linux)
-# echo.> .env                                # Create .env file (Windows)
-# pip freeze > requirements.txt              # Create requirements.txt (optional)
-# python your_bot_file.py                    # Run your bot script
 
-#.env file :
-#DISCORD_API_TOKEN=''                        #bot Token 
-#GUILD=''                                    #Server id
-#ALLOWED_CHANNEL_ID=''                       #ALLOWED_CHANNEL_ID
-#ALLOWED_ROLE_ID=''                          #ALLOWED_ROLE_ID
